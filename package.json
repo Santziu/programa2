@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/next": "^8.0.7",
+    "@types/next-server": "^8.1.2",
+    "@types/node": "^22.5.1"
+  }
+}
